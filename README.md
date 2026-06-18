@@ -17,6 +17,7 @@ short_description: "Ultra-premium, high-performance web architecture mapping fro
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -28,7 +29,8 @@ short_description: "Ultra-premium, high-performance web architecture mapping fro
 
 ### 👥 Engineering Profile
 - 🛠️ **Muhammad Bilal:** [GitHub Repository](https://github.com/bkbilal009/my-portfolio-project) | [Main Profile](https://github.com/bkbilal009)
-- 💼 **Role:** Generative AI Engineer & Frontend Web Developer
+- 💼 **LinkedIn Network:** [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-bilal-dev/)
+- 👨‍💻 **Role:** Generative AI Engineer & Frontend Web Developer
 - 🎓 **Academic Status:** 5th Semester Computer Science Student
 
 ---
