@@ -31,8 +31,7 @@ short_description: "Ultra-premium, high-performance web architecture mapping fro
 - 🛠️ **Muhammad Bilal:** [GitHub Repository](https://github.com/bkbilal009/my-portfolio-project) | [Main Profile](https://github.com/bkbilal009)
 - 💼 **LinkedIn Network:** [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-bilal-dev/)
 - 👨‍💻 **Role:** Generative AI Engineer & Frontend Web Developer
-- 🎓 **Academic Status:** Computer Science Student (Muhammad Bilal)
-
+- 🎓 **Academic Status:** Computer Science Student 
 ---
 
 ## 🏗️ Technical Architecture & Repository Topology
